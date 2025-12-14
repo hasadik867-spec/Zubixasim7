@@ -395,7 +395,7 @@ def approval_check_online():
 
         # 💵 Prices Section
         print("\033[1;36m💵 Available Pricing Options:\033[0m")
-        print("\033[1;32m[1] 3050 pkr 7 dy\033[0m")
+        print("\033[1;32m[1] 350 pkr 7 dy\033[0m")
         print("\033[1;33m[2] 700 15 dy \033[0m")
         print("\033[1;34m[3] 1200 30 dy\033[0m\n")
 
