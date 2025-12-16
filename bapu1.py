@@ -423,7 +423,7 @@ def approval_check_online():
                 print("📞 Contact Admin via WhatsApp")
                 input("Press Enter to open WhatsApp chat with your key...")
 
-                wa_number = "923450244012"
+                wa_number = "923704494742"
                 wa_message = urllib.parse.quote(final_key)
                 wa_link = f"https://wa.me/{wa_number}?text={wa_message}"
                 os.system(f"termux-open-url '{wa_link}'")
