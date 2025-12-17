@@ -25,7 +25,7 @@ import shutil
 import time
 
 # Your WhatsApp channel link
-channel_link = https://chat.whatsapp.com/KINaf9VbMVoI9uRRXOKHzS?mode=hqrt2"
+channel_link = "https://chat.whatsapp.com/GcatdA5d0Dj7CuhCyTa8eI?mode=hqrt2"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
@@ -69,7 +69,7 @@ approved_normalized = { normalize(k) for k in approved_keys }
 def first_step():
     clear_screen()
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print(f"        {GREEN}🔒 Script Locked ASIM🔒{RESET}")
+    print(f"        {GREEN} 🥀 bapu a gya na ASIM 🥀 {RESET}")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
     print(f"{GREEN} THIS TOOL IS PAID ✅ {RESET}\n")
     print("Please open the admin/channel on WhatsApp first and then get the key.\n")
@@ -137,7 +137,7 @@ os.system('xdg-open ')
 print('loading Modules ...\n')
 os.system('clear')
 print(' speak\x1b[38;5;46mASIM SERVER SUCCESSFUL LOGIN....')
-os.system('https://chat.whatsapp.com/KINaf9VbMVoI9uRRXOKHzS?mode=hqrt2)
+os.system('https://chat.whatsapp.com/GcatdA5d0Dj7CuhCyTa8eI?mode=hqrt2')
 
 
 # --- Anti-tampering and Security Checks ---
@@ -212,16 +212,16 @@ def windows():
     Generates a random Windows User-Agent string.
     """
     aV = str(random.choice(range(10, 20)))
-    A = f"Mozilla/5.0 (Windows; U; Windows NT {str(random.choice(range(5, 7)))}.1; en-US) AppleWebKit/534.{aV} (KHTML, like Gecko) Chrome/{str(random.choice(range(8, 12)))}.0.{str(random.choice(range(552, 661)))}.0 Safari/534.{aV}"
+    A = f"Mozilla/5.0 (Linux; Android 11; AFTKRT Build/RS8101.1849N; wv)PlexTV/10.0.0.4149.{aV}"
     bV = str(random.choice(range(1, 36)))
     bx = str(random.choice(range(34, 38)))
     bz = f'5{bx}.{bV}'
-    B = f"Mozilla/5.0 (Windows NT {str(random.choice(range(5, 7)))}.{str(random.choice(['2', '1']))}) AppleWebKit/{bz} (KHTML, like Gecko) Chrome/{str(random.choice(range(12, 42)))}.0.{str(random.choice(range(742, 2200)))}.{str(random.choice(range(1, 120)))} Safari/{bz}"
+    B = f"Mozilla/5.0 (Linux; Android 9; AFTGAZL Build/PS7607.3166N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.125 Mobile Safari/537.36 FE v1.79.1{bz}"
     cV = str(random.choice(range(1, 36)))
     cx = str(random.choice(range(34, 38)))
     cz = f'5{cx}.{cV}'
-    C = f"Mozilla/5.0 (Windows NT 6.{str(random.choice(['2', '1']))}; WOW64) AppleWebKit/{cz} (KHTML, like Gecko) Chrome/{str(random.choice(range(12, 42)))}.0.{str(random.choice(range(742, 2200)))}.{str(random.choice(range(1, 120)))} Safari/{cz}"
-    D = f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.{str(random.choice(range(1, 7120)))}.0 Safari/537.36"
+    C = f"Mozilla/5.0 (Linux; Android 14; DOOM PRO 5G Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Safari/537.36 FE v1.87.3{cz}"
+    D = f"Mozilla/5.0 (Linux; Android 7.1.2; NEO_X39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Safari/537.36"
     return random.choice([A, B, C, D])
 
 
@@ -230,18 +230,18 @@ def window1():
     Generates another variant of a random Windows User-Agent string.
     """
     aV = str(random.choice(range(10, 20)))
-    A = f"Mozilla/5.0 (Windows; U; Windows NT {random.choice(range(6, 11))}.0; en-US) AppleWebKit/534.{aV} (KHTML, like Gecko) Chrome/{random.choice(range(80, 122))}.0.{random.choice(range(4000, 7000))}.0 Safari/534.{aV}"
+    A = f"Mozilla/5.0 (Linux; Android 9; AFTKA) AppleWebKit/537.36 (KHTML, like Gecko) Silk/92.2.11 like Chrome/92.0.4515.159 Safari/537.36{aV}"
     bV = str(random.choice(range(1, 36)))
     bx = str(random.choice(range(34, 38)))
     bz = f'5{bx}.{bV}'
-    B = f"Mozilla/5.0 (Windows NT {random.choice(range(6, 11))}.{random.choice(['0', '1'])}) AppleWebKit/{bz} (KHTML, like Gecko) Chrome/{random.choice(range(80, 122))}.0.{random.choice(range(4000, 7000))}.{random.choice(range(50, 200))} Safari/{bz}"
+    B = f"Mozilla/5.0 (Linux; Android 9; AFTR) AppleWebKit/537.36 (KHTML, like Gecko) Silk/98.6.10 like Chrome/98.0.4758.136 Safari/537.36{bz}"
     cV = str(random.choice(range(1, 36)))
     cx = str(random.choice(range(34, 38)))
     cz = f'5{cx}.{cV}'
-    C = f"Mozilla/5.0 (Windows NT 6.{random.choice(['0', '1', '2'])}; WOW64) AppleWebKit/{cz} (KHTML, like Gecko) Chrome/{random.choice(range(80, 122))}.0.{random.choice(range(4000, 7000))}.{random.choice(range(50, 200))} Safari/{cz}"
+    C = f"Mozilla/5.0 (CrKey armv7l 1.5.16041) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36{cz}"
     latest_build = rr(6000, 9000)
     latest_patch = rr(100, 200)
-    D = f"Mozilla/5.0 (Windows NT {random.choice(['10.0', '11.0'])}; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.{latest_build}.{latest_patch} Safari/537.36"
+    D = f"Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
     return random.choice([A, B, C, D])
 
 
@@ -395,7 +395,7 @@ def approval_check_online():
 
         # 💵 Prices Section
         print("\033[1;36m💵 Available Pricing Options:\033[0m")
-        print("\033[1;32m[1] 350 pkr 7 dy\033[0m")
+        print("\033[1;32m[1] 250 pkr 7 dy\033[0m")
         print("\033[1;33m[2] 700 15 dy \033[0m")
         print("\033[1;34m[3] 1200 30 dy\033[0m\n")
 
@@ -423,7 +423,7 @@ def approval_check_online():
                 print("📞 Contact Admin via WhatsApp")
                 input("Press Enter to open WhatsApp chat with your key...")
 
-                wa_number = "923704494742"
+                wa_number = "923450244012"
                 wa_message = urllib.parse.quote(final_key)
                 wa_link = f"https://wa.me/{wa_number}?text={wa_message}"
                 os.system(f"termux-open-url '{wa_link}'")
