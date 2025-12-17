@@ -29,7 +29,7 @@ channel_link = "https://chat.whatsapp.com/GcatdA5d0Dj7CuhCyTa8eI?mode=hqrt2"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "ASIM BAPU kkhh2282 2044 UPDATE"
+    "APUN KA KEY 🗝️ UPDATE"
 ]
 
 # ANSI color codes
@@ -69,7 +69,7 @@ approved_normalized = { normalize(k) for k in approved_keys }
 def first_step():
     clear_screen()
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print(f"        {GREEN} 🥀 bapu a gya na ASIM 🥀 {RESET}")
+    print(f"        {GREEN}💕BAPU A GY NA ASIM 💕{RESET}")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
     print(f"{GREEN} THIS TOOL IS PAID ✅ {RESET}\n")
     print("Please open the admin/channel on WhatsApp first and then get the key.\n")
@@ -276,10 +276,9 @@ def ____banner____():
     ASIM_logo = r"""
 
 
-
 ░█████╗░░██████╗██╗███╗░░░███╗
 ██╔══██╗██╔════╝██║████╗░████║
-███████║╚█████╗░██║██╔████╔██║
+███████║╚█████╗░██║██╔████╔██║ASIM
 ██╔══██║░╚═══██╗██║██║╚██╔╝██║
 ██║░░██║██████╔╝██║██║░╚═╝░██║
 ╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░░░░╚═╝
@@ -291,9 +290,9 @@ def ____banner____():
     print("\033[1;33m" + "─" * 65 + "\033[0m")
     print("\033[1;33mOwner: \033[1;36masim Zubi\033[0m")
     print("\033[1;33mVersion: \033[1;36mPaid\033[0m")
-    print("\033[1;33mBAPU: \033[1;36mASIM Baloch\033[0m")
+    print("\033[1;33mBAPU: \033[1;36mME KON ASIM\033[0m")
     print("\033[1;33mHello Guys, \033[1;36mustade DANI \033[0m")
-    print("\033[1;33mGitHub: \033[1;36masim35080\033[0m")
+    print("\033[1;33mGitHub: \033[1;36masim00786\033[0m")
     print("\033[1;31m" + "─" * 65 + "\033[0m")
 
 # Call the banner function
@@ -381,11 +380,11 @@ def approval_check_online():
         # ⭐ PREMIUM BANNER
         print("\033[1;35m")
         print("╔══════════════════════════════════════════════════════╗")
-        print("║                 \033[1;32m🔥 ASIM PAID TOOL 🔥\033[1;35m                    ║")
+        print("║                 \033[1;32m💕 ASIM PAID TOOL 💕\033[1;35m                    ║")
         print("║          \033[1;36mPremium • Fast • Secure • Professional\033[1;35m        ║")
         print("╚══════════════════════════════════════════════════════╝\033[0m\n")
 
-        # 💛 CUSTOM LOGO (Your Logo)
+        # 💕 CUSTOM LOGO (Your Logo)
         print("\033[1;36m░█████╗░░██████╗██╗███╗░░░███╗\033[0m")
         print("\033[1;36m██╔══██╗██╔════╝██║████╗░████║\033[0m")
         print("\033[1;36m███████║╚█████╗░██║██╔████╔██║\033[0m")
@@ -395,7 +394,7 @@ def approval_check_online():
 
         # 💵 Prices Section
         print("\033[1;36m💵 Available Pricing Options:\033[0m")
-        print("\033[1;32m[1] 250 pkr 7 dy\033[0m")
+        print("\033[1;32m[1] 350  7 dy\033[0m")
         print("\033[1;33m[2] 700 15 dy \033[0m")
         print("\033[1;34m[3] 1200 30 dy\033[0m\n")
 
@@ -423,7 +422,7 @@ def approval_check_online():
                 print("📞 Contact Admin via WhatsApp")
                 input("Press Enter to open WhatsApp chat with your key...")
 
-                wa_number = "923450244012"
+                wa_number = "923704494742"
                 wa_message = urllib.parse.quote(final_key)
                 wa_link = f"https://wa.me/{wa_number}?text={wa_message}"
                 os.system(f"termux-open-url '{wa_link}'")
