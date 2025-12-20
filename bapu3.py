@@ -29,7 +29,7 @@ channel_link = "https://chat.whatsapp.com/GcatdA5d0Dj7CuhCyTa8eI?mode=hqrt2"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "APUN KA KEY 🗝️ UPDATE"
+    "009788887678877788"
 ]
 
 # ANSI color codes
@@ -212,16 +212,16 @@ def windows():
     Generates a random Windows User-Agent string.
     """
     aV = str(random.choice(range(10, 20)))
-    A = f"Mozilla/5.0 (Linux; Android 11; AFTKRT Build/RS8101.1849N; wv)PlexTV/10.0.0.4149.{aV}"
+    A = f"User-Agent: Mozilla/5.0 (<system-information>) <platform> (<platform-details>) <extensions>.{aV}"
     bV = str(random.choice(range(1, 36)))
     bx = str(random.choice(range(34, 38)))
     bz = f'5{bx}.{bV}'
-    B = f"Mozilla/5.0 (Linux; Android 9; AFTGAZL Build/PS7607.3166N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.125 Mobile Safari/537.36 FE v1.79.1{bz}"
+    B = f"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.12.45 Mobile Safari/537.36{bz}"
     cV = str(random.choice(range(1, 36)))
     cx = str(random.choice(range(34, 38)))
     cz = f'5{cx}.{cV}'
-    C = f"Mozilla/5.0 (Linux; Android 14; DOOM PRO 5G Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Safari/537.36 FE v1.87.3{cz}"
-    D = f"Mozilla/5.0 (Linux; Android 7.1.2; NEO_X39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Safari/537.36"
+    C = f"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36{cz}"
+    D = f"Mozilla/5.0 (platform; rv:gecko-version) Gecko/gecko-trail Firefox/firefox-version"
     return random.choice([A, B, C, D])
 
 
@@ -230,15 +230,16 @@ def window1():
     Generates another variant of a random Windows User-Agent string.
     """
     aV = str(random.choice(range(10, 20)))
-    A = f"Mozilla/5.0 (Linux; Android 9; AFTKA) AppleWebKit/537.36 (KHTML, like Gecko) Silk/92.2.11 like Chrome/92.0.4515.159 Safari/537.36{aV}"
+    A = f"Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
     bV = str(random.choice(range(1, 36)))
     bx = str(random.choice(range(34, 38)))
     bz = f'5{bx}.{bV}'
-    B = f"Mozilla/5.0 (Linux; Android 9; AFTR) AppleWebKit/537.36 (KHTML, like Gecko) Silk/98.6.10 like Chrome/98.0.4758.136 Safari/537.36{bz}"
+    B = f"Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
+    
     cV = str(random.choice(range(1, 36)))
     cx = str(random.choice(range(34, 38)))
     cz = f'5{cx}.{cV}'
-    C = f"Mozilla/5.0 (CrKey armv7l 1.5.16041) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36{cz}"
+    C = f"Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
     latest_build = rr(6000, 9000)
     latest_patch = rr(100, 200)
     D = f"Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
@@ -278,7 +279,7 @@ def ____banner____():
 
 ░█████╗░░██████╗██╗███╗░░░███╗
 ██╔══██╗██╔════╝██║████╗░████║
-███████║╚█████╗░██║██╔████╔██║ASIM
+███████║╚█████╗░██║██╔████╔██║💕💕💕
 ██╔══██║░╚═══██╗██║██║╚██╔╝██║
 ██║░░██║██████╔╝██║██║░╚═╝░██║
 ╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░░░░╚═╝
@@ -290,11 +291,10 @@ def ____banner____():
     print("\033[1;33m" + "─" * 65 + "\033[0m")
     print("\033[1;33mOwner: \033[1;36masim Zubi\033[0m")
     print("\033[1;33mVersion: \033[1;36mPaid\033[0m")
-    print("\033[1;33mBAPU: \033[1;36mME KON ASIM\033[0m")
-    print("\033[1;33mHello Guys, \033[1;36mustade DANI \033[0m")
-    print("\033[1;33mGitHub: \033[1;36masim00786\033[0m")
+    print("\033[1;33mBAPU: \033[1;36m KON ASIM\033[0m")
+    print("\033[1;33mHello Guys, \033[1;36mustade DANISH \033[0m")
+    print("\033[1;33mGitHub: \033[1;36mASIM ALI\033[0m")
     print("\033[1;31m" + "─" * 65 + "\033[0m")
-
 # Call the banner function
 ____banner____()
 def creationyear(uid):
