@@ -25,11 +25,11 @@ import shutil
 import time
 
 # Your WhatsApp channel link
-channel_link = "https://chat.whatsapp.com/GcatdA5d0Dj7CuhCyTa8eI?mode=hqrt2"
+channel_link = "https://chat.whatsapp.com/ECcsbDeb8xGGhnBI5XwTH2"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "009788887678877788"
+    "ASIM LUCKY8788 ????? 2026 update"
 ]
 
 # ANSI color codes
@@ -69,7 +69,7 @@ approved_normalized = { normalize(k) for k in approved_keys }
 def first_step():
     clear_screen()
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print(f"        {GREEN}💕BAPU A GY NA ASIM 💕{RESET}")
+    print(f"        {GREEN}💕NO LOVE ONLY ALLAH IS MY LIFE💕{RESET}")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
     print(f"{GREEN} THIS TOOL IS PAID ✅ {RESET}\n")
     print("Please open the admin/channel on WhatsApp first and then get the key.\n")
@@ -108,7 +108,7 @@ if __name__ == "__main__":
     first_step()
     check_key()
     # ---------- main tool starts here ----------
-    print(">>> Tool Successfully Unlocked <<<")
+    print(">>> 🔥Successfully unlock 🔓<<<")
     # place your main code below
 
 
@@ -129,7 +129,7 @@ requests.urllib3.disable_warnings()
 
 # Initial setup and promotion
 os.system('clear')
-print(' \x1b[38;5;46mASIM SERVER LOADING....')
+print(' \x1b[38;5;46m💙ASIM SERVER LOADING💙....')
 os.system('xdg-open ')
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pip install httpx pip install beautifulsoup4')
@@ -137,7 +137,7 @@ os.system('xdg-open ')
 print('loading Modules ...\n')
 os.system('clear')
 print(' speak\x1b[38;5;46mASIM SERVER SUCCESSFUL LOGIN....')
-os.system('https://chat.whatsapp.com/GcatdA5d0Dj7CuhCyTa8eI?mode=hqrt2')
+os.system('https://www.youtube.com/@asimali007-f7x')
 
 
 # --- Anti-tampering and Security Checks ---
@@ -212,16 +212,16 @@ def windows():
     Generates a random Windows User-Agent string.
     """
     aV = str(random.choice(range(10, 20)))
-    A = f"User-Agent: Mozilla/5.0 (<system-information>) <platform> (<platform-details>) <extensions>.{aV}"
+    A = f"Mozilla/5.0 (Windows; U; Windows NT {random.choice(range(6, 11))}.0; en-US) AppleWebKit/534.{aV} (KHTML, like Gecko) Chrome/{random.choice(range(80, 122))}.0.{random.choice(range(4000, 7000))}.0 Safari/534.{aV}"
     bV = str(random.choice(range(1, 36)))
     bx = str(random.choice(range(34, 38)))
     bz = f'5{bx}.{bV}'
-    B = f"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.12.45 Mobile Safari/537.36{bz}"
+    B = f"Mozilla/5.0 (Windows NT {str(random.choice(range(5, 7)))}.{str(random.choice(['2', '1']))}) AppleWebKit/{bz} (KHTML, like Gecko) Chrome/{str(random.choice(range(12, 42)))}.0.{str(random.choice(range(742, 2200)))}.{str(random.choice(range(1, 120)))} Safari/{bz}"
     cV = str(random.choice(range(1, 36)))
     cx = str(random.choice(range(34, 38)))
     cz = f'5{cx}.{cV}'
-    C = f"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36{cz}"
-    D = f"Mozilla/5.0 (platform; rv:gecko-version) Gecko/gecko-trail Firefox/firefox-version"
+    C = f"Mozilla/5.0 (Windows NT 6.{str(random.choice(['2', '1']))}; WOW64) AppleWebKit/{cz} (KHTML, like Gecko) Chrome/{str(random.choice(range(12, 42)))}.0.{str(random.choice(range(742, 2200)))}.{str(random.choice(range(1, 120)))} Safari/{cz}"
+    D = f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.{str(random.choice(range(1, 7120)))}.0 Safari/537.36"
     return random.choice([A, B, C, D])
 
 
@@ -230,24 +230,24 @@ def window1():
     Generates another variant of a random Windows User-Agent string.
     """
     aV = str(random.choice(range(10, 20)))
-    A = f"Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
+    A = f"Mozilla/5.0 (Windows; U; Windows NT {random.choice(range(6, 11))}.0; en-US) AppleWebKit/534.{aV} (KHTML, like Gecko) Chrome/{random.choice(range(80, 122))}.0.{random.choice(range(4000, 7000))}.0 Safari/534.{aV}"
     bV = str(random.choice(range(1, 36)))
     bx = str(random.choice(range(34, 38)))
     bz = f'5{bx}.{bV}'
-    B = f"Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
+    B = f"Mozilla/5.0 (Windows NT {random.choice(range(6, 11))}.{random.choice(['0', '1'])}) AppleWebKit/{bz} (KHTML, like Gecko) Chrome/{random.choice(range(80, 122))}.0.{random.choice(range(4000, 7000))}.{random.choice(range(50, 200))} Safari/{bz}"
     
     cV = str(random.choice(range(1, 36)))
     cx = str(random.choice(range(34, 38)))
     cz = f'5{cx}.{cV}'
-    C = f"Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
-    latest_build = rr(6000, 9000)
+    C = f"Mozilla/5.0 (Windows NT 6.{random.choice(['0', '1', '2'])}; WOW64) AppleWebKit/{cz} (KHTML, like Gecko) Chrome/{random.choice(range(80, 122))}.0.{random.choice(range(4000, 7000))}.{random.choice(range(50, 200))} Safari/{cz}"
+    latest_build = rr(9000, 9000)
     latest_patch = rr(100, 200)
-    D = f"Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
+    D = f"Mozilla/5.0 (Windows NT {random.choice(['10.0', '11.0'])}; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.{latest_build}.{latest_patch} Safari/537.36"
     return random.choice([A, B, C, D])
 
 
 # Set window title
-sys.stdout.write('\x1b]2;𓆩【DANU 404】𓆪 \x07')
+sys.stdout.write('\x1b]2;𓆩【ASIM404】𓆪 \x07')
 
 
 def ____banner____():
@@ -277,9 +277,18 @@ def ____banner____():
     ASIM_logo = r"""
 
 
+
+
+░█████╗░██╗░░██╗
+██╔══██╗██║░██╔╝
+███████║█████═╝░
+██╔══██║██╔═██╗░
+██║░░██║██║░╚██╗
+╚═╝░░╚═╝╚═╝░░╚═╝
+
 ░█████╗░░██████╗██╗███╗░░░███╗
 ██╔══██╗██╔════╝██║████╗░████║
-███████║╚█████╗░██║██╔████╔██║💕💕💕
+███████║╚█████╗░██║██╔████╔██║
 ██╔══██║░╚═══██╗██║██║╚██╔╝██║
 ██║░░██║██████╔╝██║██║░╚═╝░██║
 ╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░░░░╚═╝
@@ -292,7 +301,7 @@ def ____banner____():
     print("\033[1;33mOwner: \033[1;36masim Zubi\033[0m")
     print("\033[1;33mVersion: \033[1;36mPaid\033[0m")
     print("\033[1;33mBAPU: \033[1;36m KON ASIM\033[0m")
-    print("\033[1;33mHello Guys, \033[1;36mustade DANISH \033[0m")
+    print("\033[1;33mONLY BOY , \033[1;36mNO LOVE 💝\033[0m")
     print("\033[1;33mGitHub: \033[1;36mASIM ALI\033[0m")
     print("\033[1;31m" + "─" * 65 + "\033[0m")
 # Call the banner function
@@ -369,9 +378,9 @@ except:
     build = "UNKNOWN"
 
 x = (a + build + b).upper().replace(".", "")
-z = "X".join(x)
+z = "6".join(x)
 keys = z[15:]
-final_key = "ASIM-" + keys
+final_key = "ASIM KEY LINE " + keys
 
 # Online Approval Check
 def approval_check_online():
@@ -396,7 +405,7 @@ def approval_check_online():
         print("\033[1;36m💵 Available Pricing Options:\033[0m")
         print("\033[1;32m[1] 350  7 dy\033[0m")
         print("\033[1;33m[2] 700 15 dy \033[0m")
-        print("\033[1;34m[3] 1200 30 dy\033[0m\n")
+        print("\033[1;34m[3] 2000 30 dy\033[0m\n")
 
         # 🔹 User chooses price first
         choice = input("Select your pricing option (1/2/3): ").strip()
@@ -668,8 +677,8 @@ def login_2(uid):
             with requests.Session() as session:
                 headers = {
                     'x-fb-connection-bandwidth': str(rr(20000000, 29999999)),
-                    'x-fb-sim-hni': str(rr(20000, 40000)),
-                    'x-fb-net-hni': str(rr(20000, 40000)),
+                    'x-fb-sim-hni': str(rr(50000, 99999)),
+                    'x-fb-net-hni': str(rr(50000, 99999)),
                     'x-fb-connection-quality': 'EXCELLENT',
                     'x-fb-connection-type': 'cell.CTRadioAccessTechnologyHSDPA',
                     'user-agent': window1(),
